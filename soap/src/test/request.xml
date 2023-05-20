@@ -4,10 +4,10 @@
     <soapenv:Body>
         <xs:getUserRequest>
             <xs:Id>1</xs:Id>
-            <xs:FirstName>"Paul"</xs:FirstName>
+            <!--<xs:FirstName>"Paul"</xs:FirstName>
             <xs:LastName>"James"</xs:LastName>
             <xs:Age>30</xs:Age>
-            <xs:Occupation>"Software Engineer"</xs:Occupation>
+            <xs:Occupation>"Software Engineer"</xs:Occupation>-->
         </xs:getUserRequest>
     </soapenv:Body>
 </soapenv:Envelope>
